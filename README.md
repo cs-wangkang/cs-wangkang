@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @cs-wangkang
 - 👀 I’m interested in C++ && recommendation engine && AI && Model Inference Service
 - 🌱 I’m currently learning tensorflow && C++ concurrency && computer architecture
+- I’m trying to expore a wise life style, to make it all meaningful.
